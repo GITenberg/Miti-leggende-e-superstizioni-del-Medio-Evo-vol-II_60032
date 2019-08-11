@@ -1,0 +1,34 @@
+_repo: Miti-leggende-e-superstizioni-del-Medio-Evo-vol-II_60032
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Graf, Arturo
+    birthdate: 1848
+    deathdate: 1913
+    gutenberg_agent_id: '50750'
+    url: http://www.gutenberg.org/2009/agents/50750
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Arturo_Graf
+    - https://it.wikipedia.org/wiki/Arturo_Graf
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60032'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Superstition'
+- !lcsh 'Christian legends'
+- !lcsh 'Tales, Medieval'
+- !lcsh 'Paradise'
+- GITenberg
+tableOfContents: La leggenda di un pontefice -- Demonologia di Dante -- Un monte di
+  Pilato in Italia -- Fu superstizio il Boccaccio? -- San Giuliano nel "Decamerone"
+  e altrove -- Il rifiuto di Celestino V -- La leggenda di un filosofo -- Artù nell'Etna
+  -- Un mito geografico.
+title: Miti, leggende e superstizioni del Medio Evo, vol. II
+url: http://www.gutenberg.org/ebooks/60032
